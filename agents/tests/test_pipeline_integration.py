@@ -2,11 +2,11 @@
 
 import pytest
 from httpx import ASGITransport, AsyncClient
+
+from agents.execution_api.app import app as execution_app
 from agents.market_correlation.app import app as market_correlation_app
 from agents.risk_intelligence.app import app as risk_app
 from agents.strategy_agent.app import app as strategy_app
-from agents.execution_api.app import app as execution_app
-
 
 SAMPLE_EVENT = {
     "id": "evt_20260509_nvda_001",
