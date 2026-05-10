@@ -3,7 +3,7 @@
   "name": "narrativeos-cognitive",
   "description": "NarrativeOS multi-agent reasoning mesh \u2014 narrative intelligence, sentiment analysis, adversarial debate, and confidence-weighted trading signals",
   "version": "0.1.0",
-  "url": "https://f1e6-150-107-26-188.ngrok-free.app/a2a/v1",
+  "url": "https://39dc-150-107-26-188.ngrok-free.app/a2a/v1",
   "preferredTransport": "JSONRPC",
   "capabilities": {
     "streaming": true,
@@ -52,7 +52,7 @@
     "entityId": "zns:262abd82d9899483c66636f6643a606b",
     "publicKey": "ed25519:/KsCgJOXTD0Hn/yEaIVu6OZmV5AQk6wUsehf4s3ue/k=",
     "status": "online",
-    "lastUpdatedAt": "2026-05-10T09:37:27.556Z",
+    "lastUpdatedAt": "2026-05-10T16:32:27.389Z",
     "registry": "zns01.zynd.ai",
     "category": "finance",
     "tags": [
@@ -170,7 +170,7 @@
   "signatures": [
     {
       "protected": "eyJhbGciOiAiRWREU0EiLCAidHlwIjogImFnZW50LWNhcmQramNzK2p3cyJ9",
-      "signature": "c7pfjtskzDPbQrib7Ecopfa8dpTDOD2-H0a-sFh4n3AdrfWTQ3VERtx4ygcJSdkaov6IUsy-1Mnx68prz-gCBA",
+      "signature": "OKptLK38cAMKk4q1Ro6WK2TMXBCqBnlJlI4T8CNmOsrtcc6j1dNYf1VSouNinxpF69OvXax2sIdyBubK28YSDA",
       "header": {
         "kid": "ed25519:/KsCgJOXTD0Hn/yEaIVu6OZmV5AQk6wUsehf4s3ue/k="
       }
